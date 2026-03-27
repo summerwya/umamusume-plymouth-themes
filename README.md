@@ -12,13 +12,17 @@ Simple [umamusume](https://umamusume.com/) plymouth themes
 
 ## Installation
 
+### Prerequisites
+
+Having [plymouth](https://www.freedesktop.org/wiki/Software/Plymouth/) configured on your system. For example, on [Arch Linux](https://archlinux.org/) [this](https://wiki.archlinux.org/title/Plymouth) is how you set it up.
+
 ### Step 1
 
-Download [this] repo as a zip file
+Download [this](https://github.com/summerwya/umamusume-plymouth-themes/archive/refs/heads/main.zip) zip file
 
 ### Step 2
 
-Extract into a folder
+Extract `umamusume-plymouth-themes-main` into a folder
 
 ### Step 3
 
@@ -35,3 +39,8 @@ Select your plymouth theme!
 ```bash
 sudo plymouth-set-theme -R agnes-tachyon # Or any of the available umas!
 ```
+
+## Credits
+
+- All characters are from [Umamusume: Pretty Derby](https://umamusume.com/)
+- Tachyon's earring is by [CrossSeija](https://www.rolimons.com/ugc-creator-store/680225221) from [here](https://www.rolimons.com/item/80163100980537)
