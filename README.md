@@ -30,7 +30,7 @@ Run
 
 ```bash
 # We should be in this folder when running this command: ~/path-to-extraction-folder/umamusume-plymouth-themes-main
-sudo chmod +x /install-all.sh && sudo ./install-all.sh
+sudo chmod +x ./install-all.sh && sudo ./install-all.sh
 ```
 
 ### Step 4
